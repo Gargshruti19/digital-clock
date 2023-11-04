@@ -5,7 +5,7 @@ A simple web application that displays a digital clock on a colorful gradient ba
 
 ## Demo
 
-You can view a live demo of this digital clock [here](#).
+You can view a live demo of this digital clock [here](https://gargshruti19.github.io/digital-clock/).
 
 ## Features
 
